@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/machine_and_pic ">
+        <file>PictureSource/board.png</file>
+        <file>PictureSource/board1.png</file>
+        <file>PictureSource/bomb.png</file>
+        <file>PictureSource/circle.png</file>
+        <file>PictureSource/cut_board.png</file>
+        <file>PictureSource/destination.png</file>
+        <file>PictureSource/DownScissor.png</file>
+        <file>PictureSource/DownShovel.png</file>
+        <file>PictureSource/DownSign.png</file>
+        <file>PictureSource/LeftCircle.png</file>
+        <file>PictureSource/LeftScissor.png</file>
+        <file>PictureSource/LeftShovel.png</file>
+        <file>PictureSource/LeftSign.png</file>
+        <file>PictureSource/RightCircle.png</file>
+        <file>PictureSource/RightScissor.png</file>
+        <file>PictureSource/RightShovel.png</file>
+        <file>PictureSource/RightSign.png</file>
+        <file>PictureSource/StartButton.png</file>
+        <file>PictureSource/trashbin.png</file>
+        <file>PictureSource/triangle.png</file>
+        <file>PictureSource/UpScissor.png</file>
+        <file>PictureSource/UpShovel.png</file>
+        <file>PictureSource/UpSign.png</file>
+    </qresource>
+</RCC>
